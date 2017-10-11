@@ -2,7 +2,7 @@
     "name": "startupdetroit",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://mager.github.io/startupdetroit",
+    "homepage": "http://mager.github.io/startupdetroit",
     "dependencies": {
         "gh-pages": "^1.0.0",
         "react": "^16.0.0",
